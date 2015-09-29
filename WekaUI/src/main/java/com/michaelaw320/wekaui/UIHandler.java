@@ -30,7 +30,7 @@ import weka.filters.Filter;
  *
  * @author Michael
  */
-public class MainUIHandler {
+public class UIHandler {
       /** the classifier used internally */
   protected Classifier m_Classifier = null;
   
@@ -46,7 +46,7 @@ public class MainUIHandler {
   /** for evaluating the classifier */
   protected Evaluation m_Evaluation = null;
 
-    public MainUIHandler(){}
+    public UIHandler(){}
     
     public void openFile(String filename) {
         m_TrainingFile = filename;
