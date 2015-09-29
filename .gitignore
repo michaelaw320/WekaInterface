@@ -13,3 +13,6 @@ hs_err_pid*
 /WekaUI/nbproject/private/
 /Interface/nbproject/private/
 /WekaUI/target/
+/WekaInterface/nbproject/private/
+/WekaInterface/build/
+/WekaInterface/dist/
